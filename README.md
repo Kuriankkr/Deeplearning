@@ -1,5 +1,16 @@
-Deep Learning Specialization on Coursera
+# Deep Learning Specialization on Coursera
 
-Instructor Andrew NG
+### Instructor:  Andrew NG
 
-This repo 
+### Introduction
+This repository is the amalgamation of my work for the wonderful course by Andrew NG on Deep Learning in Coursera. It is one of the best starter course that anybody can do take to get a fundamental understanding of topics in Deep Learning and its applications.
+
+### Warning
+All the content that I have posted here is only for reference and should not be plagariized. The course is a wonderful resource by the deep learning team and it is simply wonderful
+
+### Programming Assignments
+- Course 1: Neural Networks and Deep Learning
+  - [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/Kuriankkr/Deeplearning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  - [Week 3 - Planar data classification with one hidden layer](https://github.com/Kuriankkr/Deeplearning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+  - [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/Kuriankkr/Deeplearning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/Kuriankkr/Deeplearning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
