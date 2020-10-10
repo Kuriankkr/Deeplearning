@@ -5,7 +5,7 @@
 ### Introduction
 This repository is the amalgamation of my work for the wonderful course by Andrew NG on Deep Learning in Coursera. It is one of the best starter course that anybody can do take to get a fundamental understanding of topics in Deep Learning and its applications. I didnt do the NLP part because it isnt my area of focus now.
 
-### Warning
+### Warnings
 All the content that I have posted here is only for reference and should not be plagariized. The course is a wonderful resource by the deep learning team and it is simply wonderful
 
 ### Programming Assignments
